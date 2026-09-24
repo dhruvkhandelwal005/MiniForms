@@ -3,7 +3,7 @@ import Home from './pages/Home'
 import CreateForm from './pages/CreateForm'
 import PublicForm from './pages/PublicForm'
 import Responses from './pages/Responses'
-import Navbar from './components/Navbar'
+import Navbar from './components/NavBar'
 
 export default function App() {
   return (
